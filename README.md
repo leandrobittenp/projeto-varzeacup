@@ -4,13 +4,13 @@ Desenvolvimento de um CRUD (sistema liga de futebol) utilizando PostgreSQL como 
 
 ## Assuntos Abordados no Desenvolvimento do Projeto:
 
-- Desenvolvimento e acesso a banco de dados PostgreSQL
-- Uso de linguagens como: HTML e CSS
+- Desenvolvimento e acesso a banco de dados PostgreSQL;
+- Uso de linguagens como: HTML e CSS.
 
 ## Configuração do Projeto:
 
-- Executar a query bancodedados.sql.
-- Editar o arquivo **conexao.php** 
+- Executar a query bancodedados.sql;
+- Editar o arquivo **conexao.php**:
 
 ```
 $host = 'dominioOuIp:porta';
