@@ -1,9 +1,21 @@
-# PROJETO WEB PHP
-## Sistema para campeonato de futebol
+# Projeto CRUD em PHP e PostgreSQL
 
-Para funcionamento do sistema deverá ser executado o código SQL em um banco PostgreSQL.
+Desenvolvimento de um CRUD (sistema liga de futebol) utilizando PostgreSQL como banco de dados relacional e linguagem PHP.
 
-Apresenta:
-    criação,edição,exclusão de time e partidas;
-    tabela de classificação do campeonato.
-    
+## Assuntos Abordados no Desenvolvimento do Projeto:
+
+- Desenvolvimento e acesso a banco de dados PostgreSQL
+- Uso de linguagens como: HTML e CSS
+
+## Configuração do Projeto:
+
+- Executar a query bancodedados.sql.
+- Editar o arquivo **conexao.php** 
+
+```
+$host = 'dominioOuIp:porta';
+$dbname = 'nomeDoBanco';
+$username = 'usuarioPGSQL';
+$password = 'senhaPGSQL';
+
+```
