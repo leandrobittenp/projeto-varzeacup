@@ -1,4 +1,9 @@
 # PROJETO WEB PHP
-## Sistema para campeonato de futebol com classificação.
+## Sistema para campeonato de futebol
 
-Utilizado php no backend, html e css para layout e banco de dados relacional PostgreSql.
+Para funcionamento do sistema deverá ser executado o código SQL em um banco PostgreSQL.
+
+Apresenta:
+    criação,edição,exclusão de time e partidas;
+    tabela de classificação do campeonato.
+    
