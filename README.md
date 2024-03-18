@@ -2,7 +2,7 @@
 
 Desenvolvimento de um CRUD (sistema liga de futebol) utilizando PostgreSQL como banco de dados relacional e linguagem PHP.
 
-## Assuntos Abordados no Desenvolvimento do Projeto:
+## Assuntos Abordados no Desenvolvimento do projeto:
 
 - Desenvolvimento e acesso a banco de dados PostgreSQL;
 - Uso de linguagens como: HTML e CSS.
